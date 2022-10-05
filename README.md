@@ -1,2 +1,2 @@
 # Código Morse em Ruby
-Um script que criptografa e descriptografa códigos Morse feito puramente em Ruby.
+Um tradutor de código Morse feito puramente em Ruby.
